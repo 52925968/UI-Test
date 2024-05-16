@@ -1,0 +1,4 @@
+MetaBase:
+  "username": 'xpath,//*[@id="app"]/div[1]/div[2]/form/div/div[3]/div/div/input'
+  "password": 'xpath,//*[@id="app"]/div[1]/div[2]/form/div/div[4]/div/div/input'
+  "login": 'xpath,//*[@id="app"]/div[1]/div[2]/form/div/div[6]/div/button/span'
